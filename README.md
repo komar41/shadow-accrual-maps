@@ -3,7 +3,7 @@
 This project aims to visualize the spatial distribution of accumulated shadows in Chicago for different seasons of the year. It provides an interactive web application that allows users to explore shadow patterns across the city, offering insights into how sunlight and shadows affect urban areas throughout the year.
 
 - **GitHub repo:** https://github.com/komar41/shadow-accrual-maps
-- **Tools used:** Angular, TypeScript, D3.js, OpenLayers, HTML/CSS
+- **Tools used:** Angular, TypeScript, D3.js, OpenLayers, HTML, CSS
 
 <p align="center">
   <img src="chicago.gif" alt="drawing" style="width: 70%;" /> 
