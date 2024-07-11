@@ -22,11 +22,15 @@ This project aims to visualize the spatial distribution of accumulated shadows i
 </p>
 
 ### 2. Shadow Overlay
-![Assignment 1 shadows](https://raw.githubusercontent.com/uic-big-data/fall-2021-assignment-1/main/shadows.png)
+
 - An ImageLayer overlaid on the map showing accumulated shadows
 - Uses RasterSource to transform shadow data into visible pixels
 - Data for three days: June 21 (summer solstice), September 22 (autumnal equinox), December 21 (winter solstice)
 - Shadows calculated from 1.5 hours after sunrise to 1.5 hours before sunset
+
+<p align="center">
+  <img alt="Assignment 1 map" src="https://raw.githubusercontent.com/uic-big-data/fall-2021-assignment-1/main/shadows.png" style="width: 50%;" />
+</p>
 
 ### 3. Bar Chart
 - A D3.js bar chart displaying shadow information for the location under the mouse cursor
