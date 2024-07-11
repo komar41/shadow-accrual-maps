@@ -2,22 +2,24 @@
 
 This project aims to visualize the spatial distribution of accumulated shadows in Chicago for different seasons of the year. It provides an interactive web application that allows users to explore shadow patterns across the city, offering insights into how sunlight and shadows affect urban areas throughout the year.
 
-## Tools and Technologies Used
-- Angular
-- TypeScript
-- D3.js
-- OpenLayers
-- HTML/CSS
+**GitHub repo:** https://github.com/komar41/shadow-accrual-maps
+**Tools used:** Angular, TypeScript, D3.js, OpenLayers, HTML/CSS
 
-![Assignment 1 Chicago animation](chicago.gif)
+<p align="center">
+  <img src="chicago.gif" alt="drawing" style="width: 70%;" /> 
+</p>
 
 ## Components
 
-### 1. OpenLayers Map
-![Assignment 1 map](https://raw.githubusercontent.com/uic-big-data/fall-2021-assignment-1/main/map.png)
+### 1. [OpenLayers Map](https://openlayers.org/)
+
 - An interactive map centered on Chicago
 - Uses OpenLayers with a TileLayer (e.g., OpenStreetMap)
 - Centered at coordinates: -87.6298, 41.8781 (Chicago)
+
+<p align="center">
+  <img alt="Assignment 1 map" src="https://raw.githubusercontent.com/uic-big-data/fall-2021-assignment-1/main/map.png" style="width: 50%;" />
+</p>
 
 ### 2. Shadow Overlay
 ![Assignment 1 shadows](https://raw.githubusercontent.com/uic-big-data/fall-2021-assignment-1/main/shadows.png)
